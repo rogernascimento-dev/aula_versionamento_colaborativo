@@ -1,0 +1,32 @@
+Versionamento com Git e GitHub
+
+Módulo 1: Introdução ao Versionamento:
+
+Versionamento, ou Controle de Versão, é a base do trabalho com Git e GitHub.
+Em essência, o versionamento é a prática de gerenciar e rastrear as alterações em um conjunto de arquivos (principalmente código-fonte) ao longo do tempo.
+Um Sistema de Controle de Versão (VCS) é um software que registra as mudanças feitas em um arquivo ou conjunto de arquivos ao longo do tempo, 
+de modo que você possa recuperar versões específicas mais tarde.
+
+4 Pilares do Versionamento
+
+O uso de um VCS, como o Git, resolve problemas críticos no desenvolvimento:
+
+Histórico Completo (Máquina do Tempo):
+
+Rastreabilidade: Permite ver exatamente o que foi alterado, quem fez a alteração e quando ela aconteceu.
+
+Reversão: Se um erro for introduzido no código, é possível reverter o projeto de forma rápida e segura para uma versão anterior e estável.
+
+Colaboração Eficiente:
+
+Permite que múltiplos desenvolvedores trabalhem simultaneamente no mesmo código sem sobrescrever o trabalho uns dos outros.
+O VCS gerencia a união (merge) das alterações feitas por diferentes pessoas, sinalizando quando há um conflito (duas pessoas alteraram a mesma parte do código).
+Desenvolvimento Paralelo (Branches):
+Permite criar "linhas de desenvolvimento" isoladas (chamadas branches ou ramificações).
+Uma equipe pode trabalhar em uma nova funcionalidade em uma branch, sem comprometer a estabilidade do código principal (produção).
+
+Backup e Segurança:
+Ao usar plataformas como o GitHub (que hospedam o repositório remoto), o código-fonte fica salvo na nuvem, 
+funcionando como um backup seguro contra falhas locais (como perda do computador).
+
+
